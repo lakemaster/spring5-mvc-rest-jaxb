@@ -6,12 +6,12 @@
     <artifactId>rest-model</artifactId>
     <packaging>jar</packaging>
 
-    <name>spring5-mvc-rest-jaxb-model</name>
+    <name>spring5-mvc-rest-model</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
         <groupId>de.jojobi</groupId>
-        <artifactId>spring5-mvc-rest-jaxb-parent</artifactId>
+        <artifactId>spring5-mvc-rest-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
