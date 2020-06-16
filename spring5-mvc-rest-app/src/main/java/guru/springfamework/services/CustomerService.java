@@ -1,6 +1,8 @@
 package guru.springfamework.services;
 
-import guru.springfamework.api.v1.model.CustomerDTO;
+
+import de.jojobi.model.CustomerListDTO;
+import de.jojobi.model.CustomerDTO;
 
 import java.util.List;
 
